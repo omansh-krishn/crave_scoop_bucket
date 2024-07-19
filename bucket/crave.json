@@ -1,12 +1,12 @@
 {
-    "version": "0.2-7021",
+    "version": "0.2-7023",
     "description": "Crave CLI",
     "homepage": "https://crave.io",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/accupara/crave/releases/download/0.2-7021/crave-windows-0.2-7021-Windows.zip",
-            "hash": "138445772ced15b1ac1a66a7471e8d72fc1030f156f226f46bc72942521e106c",
+            "url": "https://github.com/accupara/crave/releases/download/0.2-7023/crave-windows-0.2-7023-Windows.zip",
+            "hash": "6e658c543a8e4da78f04d792bfa0f6cea274f3b8e6709205a350b692e84457f5",
             "extract_dir": "crave-windows"
         }
     },
